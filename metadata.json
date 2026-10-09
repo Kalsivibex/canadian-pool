@@ -1,0 +1,6 @@
+{
+  "name": "Canadian Swimming Pool - Ludhiana",
+  "description": "Official website for Canadian Swimming Pool Family & Child Alag Pool in Ludhiana, Punjab. Explore separate family and kids pools, facilities, timings, pricing, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
